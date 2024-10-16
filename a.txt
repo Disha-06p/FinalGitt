@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii I am editing a.txt in master
+=======
+Hii , now i am editing a.txt in auto-taxi
+
